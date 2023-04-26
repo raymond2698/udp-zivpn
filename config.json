@@ -4,7 +4,7 @@
   "key":  "/etc/zivpn/zivpn.key",
   "obfs":"zivpn",
   "auth": {
-    "mode": "passwords", 
-    "config": ["zi"]
+    "mode": "12345", 
+    "config": ["raymon"]
   }
 }
